@@ -2,7 +2,7 @@
 Welcome to my GitHub! Here you can find the many repositories that I have worked on including the games I have developed using <a href = "https://github.com/BaileyHelfer/CIS487-3DGame">Unity</a> and <a href = "https://github.com/ajatucker/vr-wheelchair-soccer">Unreal Engine</a>, AI/ Machine Learning projects such as <a href = "https://github.com/BaileyHelfer/SugarScope_AI">SugarScopeAI</a> and <a href = "https://github.com/BaileyHelfer/MicrosoftLobePredictionGUI">MicrosoftLobePredictionGUI</a> and various other projects.
 
 ### About Me 
-I recentley graduated from The University Of Michigan - Dearborn with a degree in Computer and Information Science. I enjoy working with many different technologies and on many different projects. Some of those include front-end languages and frameworks like HTML,CSS and React as well as backend langs/frameworks like Python and Flask.
+I recently graduated from The University Of Michigan - Dearborn with a degree in Computer and Information Science. I enjoy working with many different technologies and on many different projects. Some of those include front-end languages and frameworks like HTML,CSS and React as well as backend langs/frameworks like Python and Flask.
 
 ### ⚡ Topics of Interest 
 - AI/Machine Learning
