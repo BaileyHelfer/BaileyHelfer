@@ -1,31 +1,34 @@
-## Hi there! 😄
-Welcome to my GitHub! Here you can find the many repositories that I have worked on including the games I have developed using <a href = "https://github.com/BaileyHelfer/CIS487-3DGame">Unity</a> and <a href = "https://github.com/ajatucker/vr-wheelchair-soccer">Unreal Engine</a>, AI/ Machine Learning projects such as <a href = "https://github.com/BaileyHelfer/SugarScope_AI">SugarScopeAI</a> and <a href = "https://github.com/BaileyHelfer/MicrosoftLobePredictionGUI">MicrosoftLobePredictionGUI</a> and various other projects.
+## Hi there! 😄  
 
-### About Me 
-I recently graduated from The University Of Michigan - Dearborn with a degree in Computer and Information Science. I enjoy working with many different technologies and on many different projects. Some of those include front-end languages and frameworks like HTML,CSS and React as well as backend langs/frameworks like Python and Flask.
+Welcome to my GitHub! I'm Bailey, a Lead Software Engineer at USS Vision, where I build real-time computer vision systems used in high-speed manufacturing environments. On this profile, you’ll find a mix of professional and personal projects — from machine learning pipelines and REST APIs to interactive tools and games.
 
-### ⚡ Topics of Interest 
-- AI/Machine Learning
-- Computer Vision 
-- Web Development 
-- Software Design
-- Database Design
+Some highlights include:  
+🎮 [Unity 3D Game Project](https://github.com/BaileyHelfer/CIS487-3DGame)  
+🎮 [VR Wheelchair Soccer (Unreal Engine)](https://github.com/ajatucker/vr-wheelchair-soccer)  
+🤖 [SugarScopeAI](https://github.com/BaileyHelfer/SugarScope_AI) – real-time image classification  
+🧠 [Microsoft Lobe Prediction GUI](https://github.com/BaileyHelfer/MicrosoftLobePredictionGUI) – custom ONNX inference tool  
 
-### 📫 How to reach me
-- Email: bhelfer@umich.edu
-- LinkedIn: <a href="https://www.linkedin.com/in/bailey-helfer/">BaileyHelfer</a>
+---
 
-<!--
-**BaileyHelfer/BaileyHelfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me  
 
-Here are some ideas to get you started:
+I graduated from the University of Michigan – Dearborn with a degree in Computer and Information Science. Since then, I’ve worked across the full stack — building Python/FastAPI backends, React and Flutter frontends, PostgreSQL databases, and deploying AI/ML models for defect detection using OpenCV, PyTorch, and Ultralytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building systems that are not only performant but also intuitive and impactful.
+
+---
+
+### ⚡ Areas of Interest  
+
+- Computer Vision & Real-Time ML  
+- Distributed Systems & Edge Computing  
+- Full-Stack Web Development  
+- Industrial Automation & HMI Design  
+- Database Architecture & Performance
+
+---
+
+### 📫 Let’s Connect  
+
+- 📧 Email: bhelfer@umich.edu  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bailey-helfer/)
